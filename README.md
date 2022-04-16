@@ -1,4 +1,4 @@
-# Marble theme 🎂 for [Mutt](http://www.mutt.org/)
+# Cake theme 🎂 for [Mutt](http://www.mutt.org/)
 
 ## Install
 
